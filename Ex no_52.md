@@ -15,7 +15,7 @@ Input will contain four integers - a,b,c,d , one on each line.
 Print the greatest of the four integers.
 Note: I/O will be automatically handled.
 # EX 52 C program to write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
-## DATE: 11/05/2025
+## DATE: 15/05/2025
 ## AIM:
 To write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
 
